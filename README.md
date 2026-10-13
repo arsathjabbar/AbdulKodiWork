@@ -17,7 +17,7 @@ Kodi will retrieve the repository index, checksum, and add-on ZIPs from this Git
 | Name | Version | Package |
 |---|---:|---|
 | Radios India | 0.3.5 | `plugin.audio.radiosindia` |
-| Deccan Delight | 2.0.61 | `plugin.video.deccandelight` |
+| Deccan Delight | 2.0.63 | `plugin.video.deccandelight` |
 | f4mTester | 2.7.1 | `plugin.video.f4mTester` |
 | Live Streams Pro | 2.9.7 | `plugin.video.live.streamspro` |
 | Subscene | 2.1.5 | `service.subtitles.subscene` |

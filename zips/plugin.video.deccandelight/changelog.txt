@@ -1,3 +1,6 @@
+[B]Version 2.0.63 - 13 Oct 2026[/B]
+- Removed Hum TV, Geo TV, ARY Digital, and Hindi Geetmala from the add-on.
+
 [B]Version 2.0.62 - 07 Oct 2026[/B]
 - Base Code Changes
     - None
